@@ -1,7 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Jassir<br>🚀 Aspiring Software Developer | 🎓 IT Student<br>Welcome to my GitHub profile! I'm a passionate developer with expertise in C, C++, and Java, building robust software solutions and exploring advanced programming concepts.<br>🌟 About Me<br>🎓 Education: IT Student with a strong foundation in computer science and software development.
+# 👋 Hi, I'm **Jassir**  
 
+> Welcome to my GitHub profile!  
+> I'm a passionate student developer with expertise in **C**, **C++**, and **Java**, building robust software solutions and exploring advanced programming concepts.  
 
+---
+
+### 🎓 **Education**  
+- **IT Student** with a strong foundation in computer science and software development.  
+- Focused on mastering software engineering principles, algorithms, and problem-solvi
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jassir-habba) 
 
@@ -11,10 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jassir69&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jassir69&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jassir69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Jassir69&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
