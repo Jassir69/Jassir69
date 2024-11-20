@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jassir<br>🚀 Aspiring Software Developer | 🎓 IT Student<br>Welcome to my GitHub profile! I'm a passionate developer with expertise in C, C++, and Java, building robust software solutions and exploring advanced programming concepts.<br>🌟 About Me<br>🎓 Education: IT Student with a strong foundation in computer science and software development.<br>💻 Skills:<br>Programming Languages: C, C++, Java, Python.<br>Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms.<br>Tools: Git/GitHub, IntelliJ IDEA, Visual Studio Code.<br>Additional: Backend logic, system optimization, and debugging.<br>🔭 Currently Learning: Advanced algorithms, system design, and distributed systems.<br>💡 Interests: Competitive programming, building efficient software, and contributing to open-source projects.
+👋 Hi, I'm Jassir<br>🚀 Aspiring Software Developer | 🎓 IT Student<br>Welcome to my GitHub profile! I'm a passionate developer with expertise in C, C++, and Java, building robust software solutions and exploring advanced programming concepts.<br>🌟 About Me<br>🎓 Education: IT Student with a strong foundation in computer science and software development.
 
 
 ## 🌐 Socials:
